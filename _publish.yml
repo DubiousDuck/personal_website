@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 08ba7de9-bbea-479b-809e-47022c1a1aa5
+      url: 'https://oscarsu.netlify.app/'
