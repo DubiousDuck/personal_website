@@ -4,16 +4,19 @@ project:
 website:
   title: "Oscar Su"
   navbar:
+    title: false
+    background: secondary
+    collapse-below: sm
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      - darkly
+      - styles.scss
+    toc: false
 
 
 

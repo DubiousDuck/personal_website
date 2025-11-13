@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Oscar Su’s Personal Website",
+    "title": "Oscar Su",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.03535258 0.51505187 0.49213664 0.90308820 0.15296482 0.86914138\n [7] 0.34277319 0.65505654 0.29300209 0.49484836"
+    "text": "I am a UCLA student :D"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Oscar Su",
+    "section": "",
+    "text": "I am a UCLA student :D"
   }
 ]

@@ -1,15 +1,25 @@
 ---
-title: "Oscar Su's Personal Website"
+title: "Oscar Su"
+subtitle: "Statistics & Data Science + Cognitive Science @ UCLA"
+image: "imgs/personal_photo.JPEG"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/oscar-shang-hsuan-su/"
+      icon: linkedin
+    - text: GitHub
+      url: "https://github.com/DubiousDuck"
+      icon: github
+    - text: Itch.io
+      url: "https://oscarshs.itch.io"
+      icon: joystick
+    - text: E-mail
+      url: "mailto:oscar517730@gmail.com"
+      icon: inbox-fill
 ---
 
-This is a Quarto website.
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-```{r}
-runif(10)
-```
+I am a UCLA student :D
