@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/games.html",
+    "items": [
+      "/games/Manny.html",
+      "/games/Mutiny.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/gender_pay_gap.html"
+    ]
+  }
+]

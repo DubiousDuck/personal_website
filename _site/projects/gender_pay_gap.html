@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-03-17">
 
-<title>Oscar Su</title>
+<title>Predicting Gender Pay Gap in Ireland – Oscar Su</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +24,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -82,15 +83,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./games.html"> 
+    <a class="nav-link" href="../games.html"> 
 <span class="menu-text">Games</span></a>
   </li>  
 </ul>
@@ -106,47 +107,86 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="imgs/personal_photo.JPEG" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Oscar Su</h1>
-<p class="subtitle lead">Statistics &amp; Data Science + Cognitive Science @ UCLA</p>
+<h1 class="title">Predicting Gender Pay Gap in Ireland</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 17, 2025</p>
+    </div>
   </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/oscar-shang-hsuan-su/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/DubiousDuck" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://oscarshs.itch.io" class="about-link" rel="" target="">
-    <i class="bi bi-joystick"></i>
-     <span class="about-link-text">Itch.io</span>
-  </a>
-  <a href="mailto:oscar517730@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-inbox-fill"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
+
+
+<p><strong>Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of wider disparities and shows a slight improvement across recent reporting years.</strong></p>
+<p><a href="https://github.com/DubiousDuck/stats-101A-final-proj">GitHub Repo Link</a></p>
+<p><img src="gender_pay_gap_imgs/website_logo.png" class="img-fluid"></p>
+<hr>
+<section id="goal" class="level2">
+<h2 data-anchor-id="goal">Goal</h2>
+<p>This project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from <a href="https://paygap.ie/downloads">PayGap.ie</a> (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay.</p>
+</section>
+<section id="my-role" class="level2">
+<h2 data-anchor-id="my-role">My Role</h2>
+<p>In this project, I did the following:</p>
+<ul>
+<li>Extracted 10 relevant predictors among 29 other correlated variables.</li>
+<li>Compiled summary statistics for the 10 predictors + outcome variable</li>
+<li>Visualized the distribution of all 11 variables</li>
+<li>Performed best model selection through the following methods
+<ul>
+<li>Best subset selection</li>
+<li>Forward selection</li>
+<li>Backward selection</li>
+</ul></li>
+</ul>
+<p>All three methods indicates that the full model is the best.</p>
+</section>
+<section id="results" class="level2">
+<h2 data-anchor-id="results">Results</h2>
+<p>Our final model shows the following factors affect the mean hourly pay gap between male and female in Ireland:</p>
+<ul>
+<li>The year in which the data was collected</li>
+<li>Mean gap in yearly bonus</li>
+<li>Median gap in yearly bonus</li>
+<li>Mean hourly part-time wage</li>
+<li>Percentage of female employees that received a bonus</li>
+<li>Percentage of female employees that received a benefit in kind</li>
+<li>Percentage of female employees</li>
+</ul>
+<p>Specifically, the mean gap in hourly wage between the two genders have decreased by .64% on average each year from 2022 to 2024.</p>
+<hr>
+</section>
+<section id="full-report" class="level2">
+<h2 data-anchor-id="full-report">Full Report</h2>
+<p>You can read the complete project report below. It can also be found in the GitHub repo linked above.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><embed src="gender_pay_gap_imgs/Stats 101A Group 11 Final Project Report.pdf" style="width:100.0%" height="500"></p>
+<figcaption>Full report of the project</figcaption>
+</figure>
 </div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="about-me" class="level2">
-<h2 data-anchor-id="about-me">About me</h2>
-<p>I am a UCLA student :D</p>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

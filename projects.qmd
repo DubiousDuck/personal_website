@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+---
+
+This is where I put all my past statistics and data science projects.

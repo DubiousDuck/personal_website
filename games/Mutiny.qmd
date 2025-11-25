@@ -1,0 +1,45 @@
+---
+title: "Mutiny's Last Reward"
+description: "Precision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries"
+image: imgs/mutiny_cover_art.jpeg
+format: html
+---
+
+<style>
+#title-block-header .title {
+  text-align: center;
+}
+
+#title-block-header .description {
+  text-align: center;
+}
+</style>
+
+::: {.centered}
+
+```{=html}
+<iframe frameborder="0" src="https://itch.io/embed/3939772?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="550" height="167"><a href="https://oscarshs.itch.io/mutinys-final-reward">Mutiny's Final Reward by Oscar (Shang-Hsuan) Su, johncast</a></iframe>
+```
+
+![](imgs/mutiny_demo.gif)
+
+Out of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!
+
+(put LD rating here)
+
+:::
+
+## My role
+
+- Implemented all game features, including
+  - Hook bounce physics
+  - Trajectory calculation and preview
+  - Dynamic + responsive multiplier text size
+  - UI/UX (menus, buttons, pause page, etc.)
+- Gathered player feedback and improved game feel iteratively and rapidly
+
+:::{layout-ncol=2}
+![Trajectory Preview](imgs/mutiny_trajectory.png)
+
+![Responsive Text Size](imgs/mutiny_big_text.png)
+:::

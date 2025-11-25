@@ -1,0 +1,56 @@
+---
+title: "Predicting Gender Pay Gap in Ireland"
+description: ""
+date: 03-17-2025
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+**Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of wider disparities and shows a slight improvement across recent reporting years.**
+
+[GitHub Repo Link](https://github.com/DubiousDuck/stats-101A-final-proj)
+
+![](gender_pay_gap_imgs/website_logo.png)
+---
+
+## Goal
+
+This project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from [PayGap.ie](https://paygap.ie/downloads) (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay.
+
+## My Role
+
+In this project, I did the following:
+
+- Extracted 10 relevant predictors among 29 other correlated variables.
+- Compiled summary statistics for the 10 predictors + outcome variable
+- Visualized the distribution of all 11 variables
+- Performed best model selection through the following methods
+  - Best subset selection
+  - Forward selection
+  - Backward selection
+
+All three methods indicates that the full model is the best.
+
+## Results
+
+Our final model shows the following factors affect the mean hourly pay gap between male and female in Ireland:
+
+- The year in which the data was collected
+- Mean gap in yearly bonus
+- Median gap in yearly bonus
+- Mean hourly part-time wage
+- Percentage of female employees that received a bonus
+- Percentage of female employees that received a benefit in kind
+- Percentage of female employees
+
+Specifically, the mean gap in hourly wage between the two genders have decreased by .64% on average each year from 2022 to 2024.
+---
+
+## Full Report
+
+You can read the complete project report below. It can also be found in the GitHub repo linked above.
+
+![Full report of the project](gender_pay_gap_imgs/Stats 101A Group 11 Final Project Report.pdf){width=100% height=500}

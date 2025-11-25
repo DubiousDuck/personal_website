@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "games/Manny.html",
+    "href": "games/Manny.html",
+    "title": "Manny Takes on Upper Management",
+    "section": "",
+    "text": "Primary team lead\nProject management\nSystem design\nLevel design\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
+  },
+  {
+    "objectID": "games/Manny.html#my-role",
+    "href": "games/Manny.html#my-role",
+    "title": "Manny Takes on Upper Management",
+    "section": "",
+    "text": "Primary team lead\nProject management\nSystem design\nLevel design\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Oscar Su",
@@ -12,5 +26,68 @@
     "title": "Oscar Su",
     "section": "",
     "text": "I am a UCLA student :D"
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html",
+    "href": "projects/gender_pay_gap.html",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "",
+    "text": "Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of wider disparities and shows a slight improvement across recent reporting years.\nGitHub Repo Link"
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#goal",
+    "href": "projects/gender_pay_gap.html#goal",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Goal",
+    "text": "Goal\nThis project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from PayGap.ie (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#my-role",
+    "href": "projects/gender_pay_gap.html#my-role",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "My Role",
+    "text": "My Role\nIn this project, I did the following:\n\nExtracted 10 relevant predictors among 29 other correlated variables.\nCompiled summary statistics for the 10 predictors + outcome variable\nVisualized the distribution of all 11 variables\nPerformed best model selection through the following methods\n\nBest subset selection\nForward selection\nBackward selection\n\n\nAll three methods indicates that the full model is the best."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#results",
+    "href": "projects/gender_pay_gap.html#results",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Results",
+    "text": "Results\nOur final model shows the following factors affect the mean hourly pay gap between male and female in Ireland:\n\nThe year in which the data was collected\nMean gap in yearly bonus\nMedian gap in yearly bonus\nMean hourly part-time wage\nPercentage of female employees that received a bonus\nPercentage of female employees that received a benefit in kind\nPercentage of female employees\n\nSpecifically, the mean gap in hourly wage between the two genders have decreased by .64% on average each year from 2022 to 2024."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#full-report",
+    "href": "projects/gender_pay_gap.html#full-report",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Full Report",
+    "text": "Full Report\nYou can read the complete project report below. It can also be found in the GitHub repo linked above.\n\n\n\nFull report of the project"
+  },
+  {
+    "objectID": "games.html",
+    "href": "games.html",
+    "title": "Games",
+    "section": "",
+    "text": "I started making games since the later-half of my sophomore year in college, and I’m still making more!\nI focus on game design and feature implementation, and I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is where I put all my past statistics and data science projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "games/Mutiny.html",
+    "href": "games/Mutiny.html",
+    "title": "Mutiny’s Last Reward",
+    "section": "",
+    "text": "&lt;a href=\"https://oscarshs.itch.io/mutinys-final-reward\"&gt;Mutiny's Final Reward by Oscar (Shang-Hsuan) Su, johncast&lt;/a&gt;\n\nOut of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!\n(put LD rating here)"
+  },
+  {
+    "objectID": "games/Mutiny.html#my-role",
+    "href": "games/Mutiny.html#my-role",
+    "title": "Mutiny’s Last Reward",
+    "section": "My role",
+    "text": "My role\n\nImplemented all game features, including\n\nHook bounce physics\nTrajectory calculation and preview\nDynamic + responsive multiplier text size\nUI/UX (menus, buttons, pause page, etc.)\n\nGathered player feedback and improved game feel iteratively and rapidly\n\n\n\n\n\n\n\n\n\n\nTrajectory Preview\n\n\n\n\n\n\n\nResponsive Text Size"
   }
 ]

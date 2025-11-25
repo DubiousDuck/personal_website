@@ -41,3 +41,23 @@ $dark:          $gray-900 !default;
 // Fonts
 
 $font-family-sans-serif: 'Avenir', sans-serif;
+
+/* css styles */
+
+// some alignment classes
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  //text-align: center;
+}
+
+// size
+
+.medium-image{
+  min-width: 100px;
+  max-width: 100px;
+  height: auto;
+}
+
