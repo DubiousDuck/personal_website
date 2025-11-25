@@ -18,6 +18,9 @@ about:
     - text: E-mail
       url: "mailto:oscar517730@gmail.com"
       icon: inbox-fill
+    - text: Resume
+      url: "/files/OscarSu_resume_all.pdf"
+      icon: file
 ---
 
 ## About me
