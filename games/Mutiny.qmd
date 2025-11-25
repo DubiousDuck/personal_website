@@ -15,13 +15,13 @@ format: html
 }
 </style>
 
-::: {.centered}
+::: {.column-centered}
 
 ```{=html}
 <iframe frameborder="0" src="https://itch.io/embed/3939772?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="550" height="167"><a href="https://oscarshs.itch.io/mutinys-final-reward">Mutiny's Final Reward by Oscar (Shang-Hsuan) Su, johncast</a></iframe>
 ```
 
-![](imgs/mutiny_demo.gif)
+![](imgs/mutiny_chaos.gif)
 
 Out of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!
 

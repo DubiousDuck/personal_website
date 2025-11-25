@@ -4,14 +4,14 @@
     "href": "games/Manny.html",
     "title": "Manny Takes on Upper Management",
     "section": "",
-    "text": "Primary team lead\nProject management\nSystem design\nLevel design\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
+    "text": "&lt;a href=\"https://oscarshs.itch.io/manny-takes-on-upper-management\"&gt;Manny Takes on Upper Management (Demo) by Oscar (Shang-Hsuan) Su, Brendan Aeria, LemonInk, Abignerd1, eljefe_vive, eigenstuffs, johncast, oranj.juice, werus23, Billybobnot1&lt;/a&gt;\nI lead the development of this game with other UCLA students within a 15-week development period. This is a completed game with a complete storyline, 10 levels, 20 enemy types, and 50+ skills."
   },
   {
     "objectID": "games/Manny.html#my-role",
     "href": "games/Manny.html#my-role",
     "title": "Manny Takes on Upper Management",
-    "section": "",
-    "text": "Primary team lead\nProject management\nSystem design\nLevel design\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
+    "section": "My role",
+    "text": "My role\n\nPrimary lead of the team of 10\nProject management\nSystem design\nLevel design (10 levels)\nEnemy design (20 enemy types)\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nMain combat mechanic – Power of Friendship!\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\n\n\n\n\n\n\n\n\n\nhexagon-grid navigation\n\n\n\n\n\n\n\npower of friendship\n\n\n\n\n\n\n\nteam member unlock interface\n\n\n\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
   },
   {
     "objectID": "index.html",
@@ -67,7 +67,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I started making games since the later-half of my sophomore year in college, and I’m still making more!\nI focus on game design and feature implementation, and I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
+    "text": "I started making games since the later-half of my sophomore year in college, and I’m still making more!\nI focus on game design and feature implementation, and I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
   },
   {
     "objectID": "projects.html",
