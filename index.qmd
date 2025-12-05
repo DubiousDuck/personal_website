@@ -3,7 +3,7 @@ title: "Oscar Su"
 subtitle: "Statistics & Data Science + Cognitive Science @ UCLA"
 image: "imgs/personal_photo.JPEG"
 about:
-  template: trestles
+  template: jolla
   image-shape: rounded
   links:
     - text: LinkedIn
@@ -23,6 +23,8 @@ about:
       icon: file
 ---
 
-## About me
+Hello! I'm Oscar. I love asking questions, finding ways to answer them, and using the insights to create cool tools and experiences. I do research, build tools to make others' works easier, and design/program video games that my friends love to play. With everything I do, I strive to make it fun, impactful, and memorable.
 
-I am a UCLA student :D
+Check out my projects and games from the menu bar or get in touch with me through the platforms below!
+
+
