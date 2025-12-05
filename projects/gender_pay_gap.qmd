@@ -1,6 +1,6 @@
 ---
 title: "Predicting Gender Pay Gap in Ireland"
-description: ""
+description: "A project to practice fitting and assessing a linear regression model"
 date: 03-17-2025
 format:
   html:
@@ -20,7 +20,7 @@ format:
 
 This project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from [PayGap.ie](https://paygap.ie/downloads) (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay.
 
-## My Role
+## What I did
 
 In this project, I did the following:
 

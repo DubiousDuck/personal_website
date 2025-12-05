@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-project-list .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-project-list'] = new List('listing-project-list', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -188,14 +188,42 @@ window.Quarto = {
 </header>
 
 
-<p>This is where I put all my past statistics and data science projects.</p>
+<p>Check out some of my data analysis and research projects from below!</p>
+<div class="project-list">
+
+</div>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-project-list">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1742194800000" data-listing-file-modified-sort="1763365703525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1745737200000" data-listing-file-modified-sort="1764828547590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
+<div class="thumbnail">
+<p><a href="./projects/savills_consulting.html" class="no-external"></a></p><a href="./projects/savills_consulting.html" class="no-external">
+<p><img loading="lazy" src="./projects/savills_consulting_imgs/slide_cover.png" class="thumbnail-image"></p>
+</a><p><a href="./projects/savills_consulting.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/savills_consulting.html" class="no-external">Data Consulting for Savills Real Estate</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./projects/savills_consulting.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./projects/savills_consulting.html" class="no-external">Data consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./projects/savills_consulting.html" class="no-external">
+<div class="listing-date">
+Apr 27, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1742194800000" data-listing-file-modified-sort="1764826714944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
 <div class="thumbnail">
 <p><a href="./projects/gender_pay_gap.html" class="no-external"></a></p><a href="./projects/gender_pay_gap.html" class="no-external">
 <p class="card-img-top"><img src="projects/gender_pay_gap_imgs/website_logo.png"  class="thumbnail-image card-img"/></p>
@@ -209,7 +237,7 @@ window.Quarto = {
 <a href="./projects/gender_pay_gap.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<a href="./projects/gender_pay_gap.html" class="no-external"><strong>Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of…</strong></a>
+<a href="./projects/gender_pay_gap.html" class="no-external">A project to practice fitting and assessing a linear regression model</a>
 </div>
 </div>
 <div class="metadata">

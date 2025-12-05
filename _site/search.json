@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Oscar Su",
     "section": "",
-    "text": "I am a UCLA student :D"
+    "text": "Hello! I’m Oscar. I love asking questions, finding ways to answer them, and using the insights to create cool tools and experiences. I do research, build tools to make others’ works easier, and design/program video games that my friends love to play. With everything I do, I strive to make it fun, impactful, and memorable.\nCheck out my projects and games from the menu bar or get in touch with me through the platforms below!"
   },
   {
     "objectID": "index.html#about-me",
@@ -74,7 +74,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This is where I put all my past statistics and data science projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Check out some of my data analysis and research projects from below!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Consulting for Savills Real Estate\n\n\n\n\n\nData consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\n\n\n\nA project to practice fitting and assessing a linear regression model\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "games/Mutiny.html",
@@ -89,5 +89,40 @@
     "title": "Mutiny’s Last Reward",
     "section": "My role",
     "text": "My role\n\nImplemented all game features, including\n\nHook bounce physics\nTrajectory calculation and preview\nDynamic + responsive multiplier text size\nUI/UX (menus, buttons, pause page, etc.)\n\nGathered player feedback and improved game feel iteratively and rapidly\n\n\n\n\n\n\n\n\n\n\nTrajectory Preview\n\n\n\n\n\n\n\nResponsive Text Size"
+  },
+  {
+    "objectID": "projects/savills_consulting.html",
+    "href": "projects/savills_consulting.html",
+    "title": "Data Consulting for Savills Real Estate",
+    "section": "",
+    "text": "Link to our presentation slides"
+  },
+  {
+    "objectID": "projects/savills_consulting.html#goal",
+    "href": "projects/savills_consulting.html#goal",
+    "title": "Data Consulting for Savills Real Estate",
+    "section": "Goal",
+    "text": "Goal\nIn 48 hours, we need to analyze a rich but messy data set provided by Savills Real Estate and present actionable insights to important stakeholders of the company."
+  },
+  {
+    "objectID": "projects/savills_consulting.html#what-i-did",
+    "href": "projects/savills_consulting.html#what-i-did",
+    "title": "Data Consulting for Savills Real Estate",
+    "section": "What I did",
+    "text": "What I did\n\nData cleaning and Exploratory Data Analysis\nGIS plotting of office locations on Google Map with Geopandas\nGraphing amenity growth comparison between San Jose and San Francisco\nPresent our findings clearly and concisely to non-technical audience\n\n\nYou can read more about our project in this article written by UCLA."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#what-i-did",
+    "href": "projects/gender_pay_gap.html#what-i-did",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "What I did",
+    "text": "What I did\nIn this project, I did the following:\n\nExtracted 10 relevant predictors among 29 other correlated variables.\nCompiled summary statistics for the 10 predictors + outcome variable\nVisualized the distribution of all 11 variables\nPerformed best model selection through the following methods\n\nBest subset selection\nForward selection\nBackward selection\n\n\nAll three methods indicates that the full model is the best."
+  },
+  {
+    "objectID": "projects/savills_consulting.html#results",
+    "href": "projects/savills_consulting.html#results",
+    "title": "Data Consulting for Savills Real Estate",
+    "section": "Results",
+    "text": "Results\nOur team focused on advising the Real Estate company to invest in properties in emerging hub cities.\nSpecifically, for the financial sector, there is an emerging office hub in Orange County due to its proximity to airports and overall better quality of life compared to Los Angeles.\nFor the tech sector, there is an emerging office hub in San Jose due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.\nIn sum, we advised the company to focus on attracting finance companies to Orange County and tech companies to San Jose to meet the trend for maximum success.\nOur creative insights and energetic presentation won us the Judge’s Choice Award out of 80 other competing teams."
   }
 ]

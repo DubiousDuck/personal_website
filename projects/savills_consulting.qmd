@@ -1,0 +1,42 @@
+---
+title: "Data Consulting for Savills Real Estate"
+description: "Data consulting competition in 48 hours; won Judge's Choice Awards out of 80 teams"
+date: 04-27-2025
+image: savills_consulting_imgs/slide_cover.png
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+[Link to our presentation slides](https://www.canva.com/design/DAGlzj8usaI/yo7BdfRePr4EhVA76AbMyg/view?utm_content=DAGlzj8usaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hde15a565ed)
+
+![](savills_consulting_imgs/slide_cover.png){width=50%}
+
+## Goal
+
+In 48 hours, we need to analyze a rich but messy data set provided by Savills Real Estate and present actionable insights to important stakeholders of the company.
+
+## Results
+
+Our team focused on advising the Real Estate company to invest in properties in emerging hub cities.
+
+Specifically, for the *financial sector*, there is an emerging office hub in *Orange County* due to its proximity to airports and overall better quality of life compared to Los Angeles.
+
+For the *tech sector*, there is an emerging office hub in *San Jose* due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.
+
+In sum, we advised the company to focus on **attracting finance companies to Orange County and tech companies to San Jose** to meet the trend for maximum success.
+
+Our creative insights and energetic presentation won us the **Judge's Choice Award** out of 80 other competing teams.
+
+## What I did
+
+- Data cleaning and Exploratory Data Analysis
+- GIS plotting of office locations on Google Map with Geopandas
+- Graphing amenity growth comparison between San Jose and San Francisco
+- Present our findings clearly and concisely to non-technical audience
+
+---
+
+You can read more about our project in [this article written by UCLA](https://moments.stat.ucla.edu/asa-datafest-ucla-celebrates-its-15th-year/).
