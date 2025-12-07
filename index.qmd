@@ -27,4 +27,5 @@ Hello! I'm Oscar. I like to ask questions, answer them, and use what I found to 
 
 Check out my projects and games from the menu bar or get in touch with me through the platforms below!
 
+<!--[my resume](/files/OscarSu_resume_all.pdf) for some reason i need to include this to have the site reliabily load my pdf-->
 
