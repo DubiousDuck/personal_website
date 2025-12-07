@@ -25,8 +25,9 @@ $yellow:  #ffc107 !default;
 $green:   #8BB8E8 !default;
 $teal:    #20c997 !default;
 $cyan:    #29abe0 !default;
+$dark-blue: #375A7F !default;
 
-$primary:       $blue !default;
+$primary:       $dark-blue !default;
 $secondary:     $gray-800 !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -65,3 +66,42 @@ $font-family-sans-serif: 'Avenir', sans-serif;
   height: auto;
 }
 
+// navigation highlights
+
+.nav-link{
+  /* Ensure a smooth transition for all hover states */
+  transition: all 0.3s ease-in-out;
+  border-radius: 5px;
+  //position: relative; /* Needed for the underline effect */
+  //display: inline-block; /* Helps with underline effect alignment */
+  
+  &:hover {
+    /* Use the primary color for the background */
+    background-color: $primary;
+    /* Use the white color for the text */
+    color: $white !important;
+  }
+}
+
+.nav-link:not([href]) { // don't apply highlight if it has no link
+  cursor: default;
+
+  &:hover {
+    background-color: transparent !important;
+    color: inherit !important;
+  }
+}
+
+.quarto-grid-item{ // built-in quarto class for grid items
+  &:hover {
+    background-color: $primary;
+    color: $white !important;
+  }
+}
+
+.quarto-post { // built-in quarto class for default listing items
+  &:hover {
+    background-color: $primary;
+    color: $white !important;
+  }
+}
