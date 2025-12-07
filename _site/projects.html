@@ -62,9 +62,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -186,57 +186,55 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-project-list">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1745737200000" data-listing-file-modified-sort="1765136554641" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
-<div class="thumbnail">
-<p><a href="./projects/savills_consulting.html" class="no-external"></a></p><a href="./projects/savills_consulting.html" class="no-external">
-<p><img loading="lazy" src="./projects/savills_consulting_imgs/slide_cover.png" class="thumbnail-image"></p>
-</a><p><a href="./projects/savills_consulting.html" class="no-external"></a></p>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-project-list">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1745737200000" data-listing-file-modified-sort="1765136554641" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<a href="./projects/savills_consulting.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/savills_consulting_imgs/slide_cover.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Consulting for Savills Real Estate
+</h5>
+<div class="card-text listing-description">
+Data consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/savills_consulting.html" class="no-external">Data Consulting for Savills Real Estate</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/savills_consulting.html" class="no-external"></a>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
 </div>
-<div class="listing-description">
-<a href="./projects/savills_consulting.html" class="no-external">Data consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/savills_consulting.html" class="no-external">
 <div class="listing-date">
 Apr 27, 2025
 </div>
+</div>
+</div>
+</div>
 </a>
 </div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1742194800000" data-listing-file-modified-sort="1764826714944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
+<a href="./projects/gender_pay_gap.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="projects/gender_pay_gap_imgs/website_logo.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Predicting Gender Pay Gap in Ireland
+</h5>
+<div class="card-text listing-description">
+A project to practice fitting and assessing a linear regression model
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1742194800000" data-listing-file-modified-sort="1764826714944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
-<div class="thumbnail">
-<p><a href="./projects/gender_pay_gap.html" class="no-external"></a></p><a href="./projects/gender_pay_gap.html" class="no-external">
-<p class="card-img-top"><img src="projects/gender_pay_gap_imgs/website_logo.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/gender_pay_gap.html" class="no-external"></a></p>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/gender_pay_gap.html" class="no-external">Predicting Gender Pay Gap in Ireland</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/gender_pay_gap.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/gender_pay_gap.html" class="no-external">A project to practice fitting and assessing a linear regression model</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/gender_pay_gap.html" class="no-external">
 <div class="listing-date">
 Mar 17, 2025
 </div>
-</a>
 </div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">

@@ -25,7 +25,9 @@ format: html
 
 Out of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!
 
-(put LD rating here)
+![](imgs/mutiny_ld_score.png){width=75%}
+
+It was really fun making this game, and I'm really glad I have finally made it to within top 100.
 
 :::
 
