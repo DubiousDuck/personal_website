@@ -10,7 +10,7 @@ format:
     anchor-sections: false
 ---
 
-[Link to our presentation slides](https://www.canva.com/design/DAGlzj8usaI/yo7BdfRePr4EhVA76AbMyg/view?utm_content=DAGlzj8usaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hde15a565ed)
+## [Link to our presentation slides](https://www.canva.com/design/DAGlzj8usaI/yo7BdfRePr4EhVA76AbMyg/view?utm_content=DAGlzj8usaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hde15a565ed)
 
 ![](savills_consulting_imgs/slide_cover.png){width=50%}
 
@@ -35,7 +35,7 @@ Our creative insights and energetic presentation won us the **Judge's Choice Awa
 - Data cleaning and Exploratory Data Analysis
 - GIS plotting of office locations on Google Map with Geopandas
 - Graphing amenity growth comparison between San Jose and San Francisco
-- Present our findings clearly and concisely to non-technical audience
+- Presenting our findings clearly and concisely to non-technical audience
 
 ---
 

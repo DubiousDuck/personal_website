@@ -93,6 +93,8 @@ $font-family-sans-serif: 'Avenir', sans-serif;
 }
 
 .quarto-grid-item{ // built-in quarto class for grid items
+  transition: all 0.1s ease-in-out;
+  
   &:hover {
     background-color: $primary;
     color: $white !important;
@@ -100,8 +102,27 @@ $font-family-sans-serif: 'Avenir', sans-serif;
 }
 
 .quarto-post { // built-in quarto class for default listing items
+  transition: all 0.1s ease-in-out;
+  
   &:hover {
     background-color: $primary;
     color: $white !important;
   }
 }
+
+// spacing adjustments
+
+.quarto-about-jolla {
+  margin-top: 1rem !important;
+  
+  #quarto-document-content {
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+  }
+}
+
+.navbar {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+

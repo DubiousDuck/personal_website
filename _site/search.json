@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Oscar Su",
     "section": "",
-    "text": "Hello! I’m Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I do research, build tools to make others’ works easier, and design/program video games for my friends to play. With everything I do, I strive to make it fun, impactful, and memorable.\nCheck out my projects and games from the menu bar or get in touch with me through the platforms below!"
+    "text": "Hello! I’m Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I do research, build tools to make others’ works easier, and design & program video games for my friends to play. For everything I create, I strive to make it fun, impactful, and memorable.\nCheck out my projects and games from the menu bar or get in touch with me through the platforms below!"
   },
   {
     "objectID": "projects/gender_pay_gap.html",
@@ -60,7 +60,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I started making games since the later-half of my sophomore year in college, and I’m still making more!\nI focus on game design and feature implementation, and I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
+    "text": "I started making games since the later-half of my sophomore year in college. I have now 8 games published on itch.io, and I’m still making more!\nI focus on game design and feature implementation, so I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -88,7 +88,7 @@
     "href": "projects/savills_consulting.html#what-i-did",
     "title": "Data Consulting for Savills Real Estate",
     "section": "What I did",
-    "text": "What I did\n\nData cleaning and Exploratory Data Analysis\nGIS plotting of office locations on Google Map with Geopandas\nGraphing amenity growth comparison between San Jose and San Francisco\nPresent our findings clearly and concisely to non-technical audience\n\n\nYou can read more about our project in this article written by UCLA."
+    "text": "What I did\n\nData cleaning and Exploratory Data Analysis\nGIS plotting of office locations on Google Map with Geopandas\nGraphing amenity growth comparison between San Jose and San Francisco\nPresenting our findings clearly and concisely to non-technical audience\n\n\nYou can read more about our project in this article written by UCLA."
   },
   {
     "objectID": "projects.html",

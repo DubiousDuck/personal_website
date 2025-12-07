@@ -9,9 +9,9 @@ listing:
   sort: false
 ---
 
-I started making games since the later-half of my sophomore year in college, and I'm still making more!
+I started making games since the later-half of my sophomore year in college. I have now 8 games published on itch.io, and I'm still making more!
 
-I focus on game design and feature implementation, and I always ask myself
+I focus on game design and feature implementation, so I always ask myself
 
 - How can I make [a complicated system/feature] work?
 - How can I make the game *easily understood* and *fun*?
