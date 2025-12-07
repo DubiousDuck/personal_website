@@ -2,8 +2,11 @@
 title: "Games"
 listing:
   id: game-list
-  contents: games
+  contents:
+    - games/Mutiny.qmd
+    - games/Manny.qmd
   type: grid
+  sort: false
 ---
 
 I started making games since the later-half of my sophomore year in college, and I'm still making more!
