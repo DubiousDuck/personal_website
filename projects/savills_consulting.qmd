@@ -10,9 +10,7 @@ format:
     anchor-sections: false
 ---
 
-## [Link to our presentation slides](https://www.canva.com/design/DAGlzj8usaI/yo7BdfRePr4EhVA76AbMyg/view?utm_content=DAGlzj8usaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hde15a565ed)
-
-![](savills_consulting_imgs/slide_cover.png){width=50%}
+![Competition photo](savills_consulting_imgs/datafest_img.jpg)
 
 ## Goal
 
@@ -29,6 +27,8 @@ For the *tech sector*, there is an emerging office hub in *San Jose* due to the 
 In sum, we advised the company to focus on **attracting finance companies to Orange County and tech companies to San Jose** to meet the trend for maximum success.
 
 Our creative insights and energetic presentation won us the **Judge's Choice Award** out of 80 other competing teams.
+
+![Our presentation slides](../files/datafest_presentation.pdf){width=100% height=500}
 
 ## What I did
 

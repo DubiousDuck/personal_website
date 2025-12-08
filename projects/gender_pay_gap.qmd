@@ -9,10 +9,6 @@ format:
     anchor-sections: false
 ---
 
-**Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of wider disparities and shows a slight improvement across recent reporting years.**
-
-[GitHub Repo Link](https://github.com/DubiousDuck/stats-101A-final-proj)
-
 ![](gender_pay_gap_imgs/website_logo.png)
 ---
 
@@ -51,6 +47,8 @@ Specifically, the mean gap in hourly wage between the two genders have decreased
 
 ## Full Report
 
-You can read the complete project report below. It can also be found in the GitHub repo linked above.
+You can read the complete project report below. I have also attached the GitHub link to the project at the bottom of the page.
 
 ![Full report of the project](gender_pay_gap_imgs/Stats 101A Group 11 Final Project Report.pdf){width=100% height=500}
+
+## [GitHub Repo Link](https://github.com/DubiousDuck/stats-101A-final-proj)

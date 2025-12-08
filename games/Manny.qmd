@@ -1,30 +1,24 @@
 ---
 title: "Manny Takes on Upper Management"
-description: "Retro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle"
+description: "Retro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project"
 image: imgs/manny_cover_art.png
 format: html
 ---
 
-<style>
-#title-block-header .title {
-  text-align: center;
-}
+---
 
-#title-block-header .description {
-  text-align: center;
-}
-</style>
+**Play the game here!**
 
-:::{.column-centered}
 ```{=html}
 <iframe frameborder="0" src="https://itch.io/embed/3394917?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://oscarshs.itch.io/manny-takes-on-upper-management">Manny Takes on Upper Management (Demo) by Oscar (Shang-Hsuan) Su, Brendan Aeria, LemonInk, Abignerd1, eljefe_vive, eigenstuffs, johncast, oranj.juice, werus23, Billybobnot1</a></iframe>
 ```
 
+The game will be opened on a new page so you can come back and read more about how I made it at anytime.
+
+---
+
 I lead the development of this game with other UCLA students within a 15-week development period. This is a completed game with a complete storyline, 10 levels, 20 enemy types, and 50+ skills.
 
-:::
-
-:::{.shrunk-content-width}
 :::{layout-nrow=2 layout-valign="bottom"}
 ![](imgs/manny_overworld.png){width=15%}
 
@@ -33,7 +27,6 @@ I lead the development of this game with other UCLA students within a 15-week de
 ![](imgs/manny_poison.png)
 
 ![](imgs/manny_pickup.png)
-:::
 :::
 
 ## My role
@@ -51,12 +44,13 @@ I lead the development of this game with other UCLA students within a 15-week de
   - Dialogue tagging system
   - UI/UX (menus, skill selection interface)
 
-:::{layout-ncol=3 layout-valign="bottom"}
-![hexagon-grid navigation](imgs/manny_navi.gif)
+:::{layout="[[1,1], [1]]" layout-valign="bottom"}
 
-![power of friendship](imgs/manny_pof.gif)
+![hexagon-grid navigation](imgs/manny_navi.gif){width=350}
 
-![team member unlock interface](imgs/manny_select.gif)
+![power of friendship](imgs/manny_pof.gif){width=350}
+
+![team member unlock menu](imgs/manny_select.gif){width=500}
 :::
 
 I have written up more about some aspects of the development (and product management) on this [page](https://battle-tuba-86d.notion.site/Manny-Takes-on-Upper-Management-21c36b6ca99780238cddd05479be9441?pvs=143). Feel free to check it out!
