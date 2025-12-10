@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Retro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project">
+<meta name="dcterms.date" content="2025-12-13">
+<meta name="description" content="Real-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers">
 
-<title>Manny Takes on Upper Management – Oscar Su</title>
+<title>MLB Pitchers Injury and Performance Forecast – Oscar Su</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -102,12 +102,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Manny Takes on Upper Management</h1>
+<h1 class="title">MLB Pitchers Injury and Performance Forecast</h1>
 </div>
 
 <div>
   <div class="description">
-    Retro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project
+    Real-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers
   </div>
 </div>
 
@@ -115,6 +115,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 13, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -124,85 +130,53 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<hr>
-<p><strong>Play the game here!</strong></p>
-<iframe frameborder="0" src="https://itch.io/embed/3394917?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://oscarshs.itch.io/manny-takes-on-upper-management">Manny Takes on Upper Management (Demo) by Oscar (Shang-Hsuan) Su, Brendan Aeria, LemonInk, Abignerd1, eljefe_vive, eigenstuffs, johncast, oranj.juice, werus23, Billybobnot1</a></iframe>
-<p>The game will be opened on a new page so you can come back and read more about how I made it at anytime.</p>
-<hr>
-<p>I lead the development of this game with other UCLA students within a 15-week development period. This is a completed game with a complete storyline, 10 levels, 20 enemy types, and 50+ skills.</p>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="2">
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 42.9%;justify-content: center;">
-<p><img src="imgs/manny_overworld.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 57.1%;justify-content: center;">
-<p><img src="imgs/manny_party_manage.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="imgs/manny_poison.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="imgs/manny_pickup.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<section id="my-role" class="level2">
-<h2 class="anchored" data-anchor-id="my-role">My role</h2>
+<section id="goal" class="level2">
+<h2 data-anchor-id="goal">Goal</h2>
+<p>Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. <em>Winning a season is not a sprint, but a marathon.</em> It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury.</p>
+</section>
+<section id="results" class="level2">
+<h2 data-anchor-id="results">Results</h2>
+<p>By using <strong>univariate T-test</strong>, <strong>linear regression</strong>, <strong>logistic regression</strong>, and <strong>Poisson regression</strong>, we have observed the following:</p>
 <ul>
-<li>Primary lead of the team of 10</li>
-<li>Project management</li>
-<li>System design</li>
-<li>Level design (10 levels)</li>
-<li>Enemy design (20 enemy types)</li>
-<li>Implement features including
-<ul>
-<li>Hexagon-shaped tile map navigation (made an editor plug-in which can be found <a href="https://godotengine.org/asset-library/asset/3747">here</a>)</li>
-<li>Skill system and 50+ skills</li>
-<li>Main combat mechanic – <em>Power of Friendship</em>!</li>
-<li>Enemy AI</li>
-<li>Dialogue tagging system</li>
-<li>UI/UX (menus, skill selection interface)</li>
-</ul></li>
+<li>Longer careers are predicted by <em>lower rates of walks given</em>, <em>higher fastball velocity</em>, and <em>more outs achieved</em> in the first two years of a pitcher’s career.</li>
+<li><em>Higher cumulative fastball</em> counts over the past 2 games increases the chance of the pitcher getting injured in this game.</li>
+<li>Among rookie pitchers, <em>breaking balls</em> lead to more strikeouts, <em>fastballs</em> lead to more walks, and <em>offspeed</em> balls are more likely to get hit a home run</li>
 </ul>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[[1,1], [1]]">
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>With these findings, we suggested that:</p>
+<ul>
+<li>Baseball teams should closely monitor their pitchers’ <em>rolling fastball workload</em>, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.</li>
+<li>Early-career development should emphasize <em>sharpening command</em>, since lower walk rates consistently predict longer MLB careers. Improving breaking-ball quality offers the greatest upside for generating strikeouts, while refining offspeed control can directly reduce susceptibility to home runs.</li>
+<li>Scouts should prioritize identifying prospects with <em>strong fastball quality</em>, as this pitch is the foundation of pitching success and is the most important pitch in the game.</li>
+</ul>
+<p>We have summarized our findings and recommendations into the presentation slides below.</p>
+<p><embed src="mlb_imgs/stats_140_slides.pdf" style="width:100.0%" height="500"></p>
+</section>
+<section id="what-i-did" class="level2">
+<h2 data-anchor-id="what-i-did">What I did</h2>
+<ul>
+<li>Data cleaning and wrangling
+<ul>
+<li>converting character sequences into machine-interpretable columns</li>
+<li>NA removal</li>
+</ul></li>
+<li>Exploratory data analysis</li>
+<li>Analysis of the second research question: <strong>Among new pitchers, are there specific pitches that lead to a higher chance of injury or better performance?</strong>
+<ul>
+<li>Fit a <strong>logistic regression model</strong> to predict the chance of pitcher injury; achieved AUC of 0.69</li>
+<li>Fit 4 <strong>Poisson regression models</strong> to examine the most important pitch type associated with each performance metric</li>
+</ul></li>
+<li>Finding organization and report writing</li>
+</ul>
+</section>
+<section id="full-report" class="level2">
+<h2 data-anchor-id="full-report">Full report</h2>
+<p>You can read our full report on the project below.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/manny_navi.gif" class="img-fluid figure-img" width="350"></p>
-<figcaption>hexagon-grid navigation</figcaption>
+<p><embed src="../files/140XP_Final_Project_Report.pdf" style="width:100.0%" height="500"></p>
+<figcaption>Full report of the project</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="imgs/manny_pof.gif" class="img-fluid figure-img" width="350"></p>
-<figcaption>power of friendship</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="imgs/manny_select.gif" class="img-fluid figure-img" width="500"></p>
-<figcaption>team member unlock menu</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<p>I have written up more about some aspects of the development (and product management) on this <a href="https://battle-tuba-86d.notion.site/Manny-Takes-on-Upper-Management-21c36b6ca99780238cddd05479be9441?pvs=143">page</a>. Feel free to check it out!</p>
 
 
 </section>
@@ -228,13 +202,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

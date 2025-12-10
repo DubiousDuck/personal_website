@@ -1,0 +1,51 @@
+---
+title: "MLB Pitchers Injury and Performance Forecast"
+description: "Real-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers"
+date: 12-13-2025
+image: mlb_imgs/mlb_logo.png
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+---
+
+## Goal
+
+Given a detailed dataset containing MLB pitchers' performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. *Winning a season is not a sprint, but a marathon.* It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury.
+
+## Results
+
+By using **univariate T-test**, **linear regression**, **logistic regression**, and **Poisson regression**, we have observed the following:
+
+- Longer careers are predicted by *lower rates of walks given*, *higher fastball velocity*, and *more outs achieved* in the first two years of a pitcher's career.
+- *Higher cumulative fastball* counts over the past 2 games increases the chance of the pitcher getting injured in this game.
+- Among rookie pitchers, *breaking balls* lead to more strikeouts, *fastballs* lead to more walks, and *offspeed* balls are more likely to get hit a home run
+
+With these findings, we suggested that:
+
+- Baseball teams should closely monitor their pitchers’ *rolling fastball workload*, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.
+- Early-career development should emphasize *sharpening command*, since lower walk rates consistently predict longer MLB careers. Improving breaking-ball quality offers the greatest upside for generating strikeouts, while refining offspeed control can directly reduce susceptibility to home runs.
+- Scouts should prioritize identifying prospects with *strong fastball quality*, as this pitch is the foundation of pitching success and is the most important pitch in the game.
+
+We have summarized our findings and recommendations into the presentation slides below.
+
+![](mlb_imgs/stats_140_slides.pdf){width=100% height=500}
+
+## What I did
+
+- Data cleaning and wrangling
+  - converting character sequences into machine-interpretable columns
+  - NA removal
+- Exploratory data analysis
+- Analysis of the second research question: **Among new pitchers, are there specific pitches
+that lead to a higher chance of injury or better performance?**
+  - Fit a **logistic regression model** to predict the chance of pitcher injury; achieved AUC of 0.69
+  - Fit 4 **Poisson regression models** to examine the most important pitch type associated with each performance metric
+- Finding organization and report writing
+
+## Full report
+
+You can read our full report on the project below.
+
+![Full report of the project](../files/140XP_Final_Project_Report.pdf){width=100% height=500}

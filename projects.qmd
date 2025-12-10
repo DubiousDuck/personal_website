@@ -4,6 +4,7 @@ listing:
   id: project-list
   contents: projects
   type: grid
+  sort: "date desc"
 ---
 
 Check out some of my data analysis and research projects from below!

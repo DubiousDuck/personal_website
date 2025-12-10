@@ -21,46 +21,39 @@
     "text": "Hello! I’m Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I do research, build tools to make others’ works easier, and design & program video games for my friends to play. For everything I create, I strive to make it fun, impactful, and memorable.\nCheck out my projects and games from the menu bar or get in touch with me through the platforms below!"
   },
   {
-    "objectID": "projects/gender_pay_gap.html",
-    "href": "projects/gender_pay_gap.html",
-    "title": "Predicting Gender Pay Gap in Ireland",
+    "objectID": "projects/mlb_analysis.html",
+    "href": "projects/mlb_analysis.html",
+    "title": "MLB Pitchers Injury and Performance Forecast",
     "section": "",
-    "text": "Using data from 1,945 Irish companies, I modeled how industry, bonus structures, and workforce composition influence gender pay gaps. The analysis identifies key drivers of wider disparities and shows a slight improvement across recent reporting years."
+    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. Winning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
   },
   {
-    "objectID": "projects/gender_pay_gap.html#goal",
-    "href": "projects/gender_pay_gap.html#goal",
-    "title": "Predicting Gender Pay Gap in Ireland",
-    "section": "Goal",
-    "text": "Goal\nThis project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from PayGap.ie (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay."
+    "objectID": "projects/mlb_analysis.html#goal",
+    "href": "projects/mlb_analysis.html#goal",
+    "title": "MLB Pitchers Injury and Performance Forecast",
+    "section": "",
+    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. Winning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
   },
   {
-    "objectID": "projects/gender_pay_gap.html#what-i-did",
-    "href": "projects/gender_pay_gap.html#what-i-did",
-    "title": "Predicting Gender Pay Gap in Ireland",
-    "section": "What I did",
-    "text": "What I did\nIn this project, I did the following:\n\nExtracted 10 relevant predictors among 29 other correlated variables.\nCompiled summary statistics for the 10 predictors + outcome variable\nVisualized the distribution of all 11 variables\nPerformed best model selection through the following methods\n\nBest subset selection\nForward selection\nBackward selection\n\n\nAll three methods indicates that the full model is the best."
-  },
-  {
-    "objectID": "projects/gender_pay_gap.html#results",
-    "href": "projects/gender_pay_gap.html#results",
-    "title": "Predicting Gender Pay Gap in Ireland",
+    "objectID": "projects/mlb_analysis.html#results",
+    "href": "projects/mlb_analysis.html#results",
+    "title": "MLB Pitchers Injury and Performance Forecast",
     "section": "Results",
-    "text": "Results\nOur final model shows the following factors affect the mean hourly pay gap between male and female in Ireland:\n\nThe year in which the data was collected\nMean gap in yearly bonus\nMedian gap in yearly bonus\nMean hourly part-time wage\nPercentage of female employees that received a bonus\nPercentage of female employees that received a benefit in kind\nPercentage of female employees\n\nSpecifically, the mean gap in hourly wage between the two genders have decreased by .64% on average each year from 2022 to 2024."
+    "text": "Results\nBy using univariate T-test, linear regression, logistic regression, and Poisson regression, we have observed the following:\n\nLonger careers are predicted by lower rates of walks given, higher fastball velocity, and more outs achieved in the first two years of a pitcher’s career.\nHigher cumulative fastball counts over the past 2 games increases the chance of the pitcher getting injured in this game.\nAmong rookie pitchers, breaking balls lead to more strikeouts, fastballs lead to more walks, and offspeed balls are more likely to get hit a home run\n\nWith these findings, we suggested that:\n\nBaseball teams should closely monitor their pitchers’ rolling fastball workload, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.\nEarly-career development should emphasize sharpening command, since lower walk rates consistently predict longer MLB careers. Improving breaking-ball quality offers the greatest upside for generating strikeouts, while refining offspeed control can directly reduce susceptibility to home runs.\nScouts should prioritize identifying prospects with strong fastball quality, as this pitch is the foundation of pitching success and is the most important pitch in the game.\n\nWe have summarized our findings and recommendations into the presentation slides below."
   },
   {
-    "objectID": "projects/gender_pay_gap.html#full-report",
-    "href": "projects/gender_pay_gap.html#full-report",
-    "title": "Predicting Gender Pay Gap in Ireland",
-    "section": "Full Report",
-    "text": "Full Report\nYou can read the complete project report below. I have also attached the GitHub link to the project at the bottom of the page.\n\n\n\nFull report of the project"
+    "objectID": "projects/mlb_analysis.html#what-i-did",
+    "href": "projects/mlb_analysis.html#what-i-did",
+    "title": "MLB Pitchers Injury and Performance Forecast",
+    "section": "What I did",
+    "text": "What I did\n\nData cleaning and wrangling\n\nconverting character sequences into machine-interpretable columns\nNA removal\n\nExploratory data analysis\nAnalysis of the second research question: Among new pitchers, are there specific pitches that lead to a higher chance of injury or better performance?\n\nFit a logistic regression model to predict the chance of pitcher injury; achieved AUC of 0.69\nFit 4 Poisson regression models to examine the most important pitch type associated with each performance metric\n\nFinding organization and report writing"
   },
   {
-    "objectID": "games.html",
-    "href": "games.html",
-    "title": "Games",
-    "section": "",
-    "text": "I started making games since the later-half of my sophomore year in college. I have now 8 games published on itch.io, and I’m still making more!\nI focus on game design and feature implementation, so I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
+    "objectID": "projects/mlb_analysis.html#full-report",
+    "href": "projects/mlb_analysis.html#full-report",
+    "title": "MLB Pitchers Injury and Performance Forecast",
+    "section": "Full report",
+    "text": "Full report\nYou can read our full report on the project below.\n\n\n\nFull report of the project"
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -91,11 +84,53 @@
     "text": "What I did\n\nData cleaning and Exploratory Data Analysis\nGIS plotting of office locations on Google Map with Geopandas\nGraphing amenity growth comparison between San Jose and San Francisco\nPresenting our findings clearly and concisely to non-technical audience\n\n\nYou can read more about our project in this article written by UCLA."
   },
   {
+    "objectID": "games.html",
+    "href": "games.html",
+    "title": "Games",
+    "section": "",
+    "text": "I started making games since the later-half of my sophomore year in college. I have now 8 games published on itch.io, and I’m still making more!\nI focus on game design and feature implementation, so I always ask myself\n\nHow can I make [a complicated system/feature] work?\nHow can I make the game easily understood and fun?\n\nCheck out some of my most recent games below!\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nYou can find more games on my itch.io page"
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#goal",
+    "href": "projects/gender_pay_gap.html#goal",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Goal",
+    "text": "Goal\nThis project develops a predictive model to understand what drives gender pay gaps among large Irish companies following Ireland’s Gender Pay Gap Information Act (2022). Using a dataset of 1,945 company reports from PayGap.ie (2022–2024), we analyzed how factors such as industry, bonus structures, part-time pay gaps, and gender composition relate to differences in mean hourly pay."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#what-i-did",
+    "href": "projects/gender_pay_gap.html#what-i-did",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "What I did",
+    "text": "What I did\nIn this project, I did the following:\n\nExtracted 10 relevant predictors among 29 other correlated variables.\nCompiled summary statistics for the 10 predictors + outcome variable\nVisualized the distribution of all 11 variables\nPerformed best model selection through the following methods\n\nBest subset selection\nForward selection\nBackward selection\n\n\nAll three methods indicates that the full model is the best."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#results",
+    "href": "projects/gender_pay_gap.html#results",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Results",
+    "text": "Results\nOur final model shows the following factors affect the mean hourly pay gap between male and female in Ireland:\n\nThe year in which the data was collected\nMean gap in yearly bonus\nMedian gap in yearly bonus\nMean hourly part-time wage\nPercentage of female employees that received a bonus\nPercentage of female employees that received a benefit in kind\nPercentage of female employees\n\nSpecifically, the mean gap in hourly wage between the two genders have decreased by .64% on average each year from 2022 to 2024."
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#full-report",
+    "href": "projects/gender_pay_gap.html#full-report",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "Full Report",
+    "text": "Full Report\nYou can read the complete project report below. I have also attached the GitHub link to the project at the bottom of the page.\n\n\n\nFull report of the project"
+  },
+  {
+    "objectID": "projects/gender_pay_gap.html#github-repo-link",
+    "href": "projects/gender_pay_gap.html#github-repo-link",
+    "title": "Predicting Gender Pay Gap in Ireland",
+    "section": "GitHub Repo Link",
+    "text": "GitHub Repo Link"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Check out some of my data analysis and research projects from below!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Consulting for Savills Real Estate\n\n\nData consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\nA project to practice fitting and assessing a linear regression model\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Check out some of my data analysis and research projects from below!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB Pitchers Injury and Performance Forecast\n\n\nReal-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers\n\n\n\n\n\n\nDec 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Consulting for Savills Real Estate\n\n\nData consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\nA project to practice fitting and assessing a linear regression model\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "games/Mutiny.html",
@@ -110,12 +145,5 @@
     "title": "Mutiny’s Last Reward",
     "section": "My role",
     "text": "My role\n\nImplemented all game features, including\n\nHook bounce physics\nTrajectory calculation and preview\nDynamic + responsive multiplier text size\nUI/UX (menus, buttons, pause page, etc.)\n\nGathered player feedback and improved game feel iteratively and rapidly\n\n\n\n\n\n\n\n\n\n\nTrajectory Preview (pink dashed line)\n\n\n\n\n\n\n\nResponsive Text Size (it gets bigger everytime you bounce)\n\n\n\n\n\nYou can also check out the Ludum Dare page and see what other players have said about our game!"
-  },
-  {
-    "objectID": "projects/gender_pay_gap.html#github-repo-link",
-    "href": "projects/gender_pay_gap.html#github-repo-link",
-    "title": "Predicting Gender Pay Gap in Ireland",
-    "section": "GitHub Repo Link",
-    "text": "GitHub Repo Link"
   }
 ]
