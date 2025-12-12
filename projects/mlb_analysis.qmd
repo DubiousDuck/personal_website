@@ -22,6 +22,12 @@ By using **univariate T-test**, **linear regression**, **logistic regression**, 
 - *Higher cumulative fastball* counts over the past 2 games increases the chance of the pitcher getting injured in this game.
 - Among rookie pitchers, *breaking balls* lead to more strikeouts, *fastballs* lead to more walks, and *offspeed* balls are more likely to get hit a home run
 
+:::{layout-ncol=2}
+![Univariate T-Test on key statistics between pitchers with short and long career lengths](mlb_imgs/t_table.png)
+
+![Logistic model of risk of injury and rolling pitch counts](mlb_imgs/logistic_regression.png)
+:::
+
 With these findings, we suggested that:
 
 - Baseball teams should closely monitor their pitchers’ *rolling fastball workload*, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.
