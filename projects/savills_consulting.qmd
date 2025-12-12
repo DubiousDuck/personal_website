@@ -20,9 +20,9 @@ In 48 hours, we need to analyze a rich but messy data set provided by Savills Re
 
 Our team focused on advising the Real Estate company to invest in properties in emerging hub cities.
 
-Specifically, for the *financial sector*, there is an emerging office hub in *Orange County* due to its proximity to airports and overall better quality of life compared to Los Angeles.
+- **Financial sector in Orange County**: For the *financial sector*, there is an emerging office hub in *Orange County* due to its proximity to airports and overall better quality of life compared to Los Angeles.
 
-For the *tech sector*, there is an emerging office hub in *San Jose* due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.
+- **Tech sector in San Jose**: For *tech comapnies*, there is an emerging office hub in *San Jose* due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.
 
 In sum, we advised the company to focus on **attracting finance companies to Orange County and tech companies to San Jose** to meet the trend for maximum success.
 

@@ -18,9 +18,9 @@ Given a detailed dataset containing MLB pitchers' performance and injury records
 
 By using **univariate T-test**, **linear regression**, **logistic regression**, and **Poisson regression**, we have observed the following:
 
-- Longer careers are predicted by *lower rates of walks given*, *higher fastball velocity*, and *more outs achieved* in the first two years of a pitcher's career.
-- *Higher cumulative fastball* counts over the past 2 games increases the chance of the pitcher getting injured in this game.
-- Among rookie pitchers, *breaking balls* lead to more strikeouts, *fastballs* lead to more walks, and *offspeed* balls are more likely to get hit a home run
+- **Key to long careers**: Longer careers are predicted by *lower rates of walks given*, *higher fastball velocity*, and *more outs achieved* in the first two years of a pitcher's career.
+- **Injury risks**: *Higher cumulative fastball* counts over the past 2 games increases the chance of the pitcher getting injured in this game.
+- **Pitch type advantages**: Among rookie pitchers, *breaking balls* lead to more strikeouts, *fastballs* lead to more walks, and *offspeed* balls are more likely to get hit a home run
 
 :::{layout-ncol=2}
 ![Univariate T-Test on key statistics between pitchers with short and long career lengths](mlb_imgs/t_table.png)
@@ -30,9 +30,9 @@ By using **univariate T-test**, **linear regression**, **logistic regression**, 
 
 With these findings, we suggested that:
 
-- Baseball teams should closely monitor their pitchers’ *rolling fastball workload*, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.
-- Early-career development should emphasize *sharpening command*, since lower walk rates consistently predict longer MLB careers. Improving breaking-ball quality offers the greatest upside for generating strikeouts, while refining offspeed control can directly reduce susceptibility to home runs.
-- Scouts should prioritize identifying prospects with *strong fastball quality*, as this pitch is the foundation of pitching success and is the most important pitch in the game.
+- **Injury prevention**: Baseball teams should closely monitor their pitchers’ *rolling fastball workload*, as sustained stretches of high fastball usage meaningfully increase short-term injury risk.
+- **Pitcher development pan**: Early-career development should emphasize *sharpening command*, since lower walk rates consistently predict longer MLB careers. Improving breaking-ball quality offers the greatest upside for generating strikeouts, while refining offspeed control can directly reduce susceptibility to home runs.
+- **Scouting for future stars**: Scouts should prioritize identifying prospects with *strong fastball quality*, as this pitch is the foundation of pitching success and is the most important pitch in the game.
 
 We have summarized our findings and recommendations into the presentation slides below.
 

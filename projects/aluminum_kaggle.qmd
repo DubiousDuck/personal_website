@@ -1,0 +1,12 @@
+---
+title: "Predicting Airplane Aluminum Durability"
+description: ""
+date: 12-1-2025
+format:
+  html:
+    toc: false
+    code-tools: false
+    anchor-sections: false
+draft: true
+---
+
