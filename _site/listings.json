@@ -10,6 +10,7 @@
     "listing": "/projects.html",
     "items": [
       "/projects/mlb_analysis.html",
+      "/projects/aluminum_kaggle.html",
       "/projects/savills_consulting.html",
       "/projects/gender_pay_gap.html"
     ]

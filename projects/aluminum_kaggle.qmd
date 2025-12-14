@@ -1,12 +1,46 @@
 ---
 title: "Predicting Airplane Aluminum Durability"
-description: ""
-date: 12-1-2025
+description: "Prediction of airplane aluminum durability using stacked ensemble tree-based methods. Achieved high scores on class Kaggle competition"
+image: kaggle_imgs/airplane_img.webp
+date: 12-4-2025
 format:
   html:
     toc: false
     code-tools: false
     anchor-sections: false
-draft: true
 ---
 
+## Goal
+
+Given a dataset of aluminum alloy properties and classes, we wanted to predict whether each alloy passed the extreme durability test.
+
+We also wanted to achieve the highest score possible in the Kaggle competition that this problem was framed in.
+
+## Methods
+
+We approached the problem first with a few models:
+
+- **logistic regression**: classical baseline classification model; the model had a logistic cost of 0.51 and is interpretable, but its predictive power is somewhat lacking
+- **boosted trees**: more robust in capturing the non-linear relationship between the response and the predictors; achieved logistic cost of 0.4264
+
+These two models both have their own advantages, but they are not sufficient to meet our goals, so we engineered a stacked ensemble.
+
+## Final model and results
+
+By individually tuning a CatBoost model, a XGB model, a Light GBM model and combining their output, the **stacked ensemble model** produces predictions that have the highest prediction accuracy, resulting in a **0.4216** logistic cost, which is a great improvement from our other models.
+
+![kaggle score comparison](kaggle_imgs/kaggle_rank.png)
+
+Even though we only ranked 15th, our score is very close to that of the first place, suggesting that our model performs almost as well as the best model.
+
+## What I did
+
+- Data cleaning and Exploratory Data Analysis
+- Automated cross-validation process through grid-searching combinations of best hyperparameters
+- Trained and fine-tuned the boosted tree model
+
+---
+
+You can read more about our project through our report below
+
+![](../files/101c_final_report.pdf){width=100% height=500}

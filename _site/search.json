@@ -25,14 +25,14 @@
     "href": "projects/mlb_analysis.html",
     "title": "MLB Pitchers Injury and Performance Forecast",
     "section": "",
-    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. Winning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
+    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players.\nWinning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
   },
   {
     "objectID": "projects/mlb_analysis.html#goal",
     "href": "projects/mlb_analysis.html#goal",
     "title": "MLB Pitchers Injury and Performance Forecast",
     "section": "",
-    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. Winning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
+    "text": "Given a detailed dataset containing MLB pitchers’ performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players.\nWinning a season is not a sprint, but a marathon. It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury."
   },
   {
     "objectID": "projects/mlb_analysis.html#results",
@@ -74,7 +74,7 @@
     "href": "projects/savills_consulting.html#results",
     "title": "Data Consulting for Savills Real Estate",
     "section": "Results",
-    "text": "Results\nOur team focused on advising the Real Estate company to invest in properties in emerging hub cities.\n\nFinancial sector in Orange County: For the financial sector, there is an emerging office hub in Orange County due to its proximity to airports and overall better quality of life compared to Los Angeles.\nTech sector in San Jose: For tech comapnies, there is an emerging office hub in San Jose due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.\n\nIn sum, we advised the company to focus on attracting finance companies to Orange County and tech companies to San Jose to meet the trend for maximum success.\nOur creative insights and energetic presentation won us the Judge’s Choice Award out of 80 other competing teams.\n\n\n\nOur presentation slides"
+    "text": "Results\nOur team focused on advising the Real Estate company to invest in properties in emerging hub cities.\n\nFinancial sector in Orange County: For the financial sector, there is an emerging office hub in Orange County due to its proximity to airports and overall better quality of life compared to Los Angeles.\nTech sector in San Jose: For tech companies, there is an emerging office hub in San Jose due to the decreasing land lease space since COVID as well as improving living conditions compared to San Francisco.\n\nIn sum, we advised the company to focus on attracting finance companies to Orange County and tech companies to San Jose to meet the trend for maximum success.\nOur creative insights and energetic presentation won us the Judge’s Choice Award out of 80 other competing teams.\n\n\n\nOur presentation slides"
   },
   {
     "objectID": "projects/savills_consulting.html#what-i-did",
@@ -130,7 +130,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Check out some of my data analysis and research projects from below!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB Pitchers Injury and Performance Forecast\n\n\nReal-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers\n\n\n\n\n\n\nDec 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Consulting for Savills Real Estate\n\n\nData consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\nA project to practice fitting and assessing a linear regression model\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Check out some of my data analysis and research projects from below!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB Pitchers Injury and Performance Forecast\n\n\nReal-life dataset exploration and analysis that provided rich insights into how to best maintain and develop MLB pitchers\n\n\n\n\n\n\nDec 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Airplane Aluminum Durability\n\n\nPrediction of airplane aluminum durability using stacked ensemble tree-based methods. Achieved high scores on class Kaggle competition\n\n\n\n\n\n\nDec 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Consulting for Savills Real Estate\n\n\nData consulting competition in 48 hours; won Judge’s Choice Awards out of 80 teams\n\n\n\n\n\n\nApr 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Gender Pay Gap in Ireland\n\n\nA project to practice fitting and assessing a linear regression model\n\n\n\n\n\n\nMar 17, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "games/Mutiny.html",
@@ -145,5 +145,40 @@
     "title": "Mutiny’s Last Reward",
     "section": "My role",
     "text": "My role\n\nImplemented all game features, including\n\nHook bounce physics\nTrajectory calculation and preview\nDynamic + responsive multiplier text size\nUI/UX (menus, buttons, pause page, etc.)\n\nGathered player feedback and improved game feel iteratively and rapidly\n\n\n\n\n\n\n\n\n\n\nTrajectory Preview (pink dashed line)\n\n\n\n\n\n\n\nResponsive Text Size (it gets bigger everytime you bounce)\n\n\n\n\n\nYou can also check out the Ludum Dare page and see what other players have said about our game!"
+  },
+  {
+    "objectID": "projects/aluminum_kaggle.html",
+    "href": "projects/aluminum_kaggle.html",
+    "title": "Predicting Airplane Aluminum Durability",
+    "section": "",
+    "text": "Given a dataset of aluminum alloy properties and classes, we wanted to predict whether each alloy passed the extreme durability test.\nWe also wanted to achieve the highest score possible in the Kaggle competition that this problem was framed in."
+  },
+  {
+    "objectID": "projects/aluminum_kaggle.html#goal",
+    "href": "projects/aluminum_kaggle.html#goal",
+    "title": "Predicting Airplane Aluminum Durability",
+    "section": "",
+    "text": "Given a dataset of aluminum alloy properties and classes, we wanted to predict whether each alloy passed the extreme durability test.\nWe also wanted to achieve the highest score possible in the Kaggle competition that this problem was framed in."
+  },
+  {
+    "objectID": "projects/aluminum_kaggle.html#methods",
+    "href": "projects/aluminum_kaggle.html#methods",
+    "title": "Predicting Airplane Aluminum Durability",
+    "section": "Methods",
+    "text": "Methods\nWe approached the problem first with a few models:\n\nlogistic regression: classical baseline classification model; the model had a logistic cost of 0.51 and is interpretable, but its predictive power is somewhat lacking\nboosted trees: more robust in capturing the non-linear relationship between the response and the predictors; achieved logistic cost of 0.4264\n\nThese two models both have their own advantages, but they are not sufficient to meet our goals, so we engineered a stacked ensemble."
+  },
+  {
+    "objectID": "projects/aluminum_kaggle.html#final-model-and-results",
+    "href": "projects/aluminum_kaggle.html#final-model-and-results",
+    "title": "Predicting Airplane Aluminum Durability",
+    "section": "Final model and results",
+    "text": "Final model and results\nBy individually tuning a CatBoost model, a XGB model, a Light GBM model and combining their output, the stacked ensemble model produces predictions that have the highest prediction accuracy, resulting in a 0.4216 logistic cost, which is a great improvement from our other models.\n\n\n\nkaggle score comparison\n\n\nEven though we only ranked 15th, our score is very close to that of the first place, suggesting that our model performs almost as well as the best model."
+  },
+  {
+    "objectID": "projects/aluminum_kaggle.html#what-i-did",
+    "href": "projects/aluminum_kaggle.html#what-i-did",
+    "title": "Predicting Airplane Aluminum Durability",
+    "section": "What I did",
+    "text": "What I did\n\nData cleaning and Exploratory Data Analysis\nAutomated cross-validation process through grid-searching combinations of best hyperparameters\nTrained and fine-tuned the boosted tree model\n\n\nYou can read more about our project through our report below"
   }
 ]

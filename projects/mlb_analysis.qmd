@@ -12,7 +12,9 @@ format:
 
 ## Goal
 
-Given a detailed dataset containing MLB pitchers' performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players. *Winning a season is not a sprint, but a marathon.* It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury.
+Given a detailed dataset containing MLB pitchers' performance and injury records from 2010 - 2020, we aimed to analyze them to determine key variables that coaches should look out for when maintaining and improving their players.
+
+*Winning a season is not a sprint, but a marathon.* It is crucial to keep players in shape and have high performance whilst minimizing the risk of injury.
 
 ## Results
 
