@@ -95,7 +95,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 15 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -180,5 +180,19 @@
     "title": "Mutiny’s Last Reward",
     "section": "My role",
     "text": "My role\n\nImplemented all game features, including\n\nHook bounce physics\nTrajectory calculation and preview\nDynamic + responsive multiplier text size\nUI/UX (menus, buttons, pause page, etc.)\n\nGathered player feedback and improved game feel iteratively and rapidly\n\n\n\n\n\n\n\n\n\n\nTrajectory Preview (pink dashed line)\n\n\n\n\n\n\n\nResponsive Text Size (it gets bigger everytime you bounce)\n\n\n\n\n\nYou can also check out the Ludum Dare page and see what other players have said about our game!"
+  },
+  {
+    "objectID": "games/dbtb.html",
+    "href": "games/dbtb.html",
+    "title": "Don’t Break the Bicycle",
+    "section": "",
+    "text": "Play the game here!\n&lt;a href=\"https://oscarshs.itch.io/dont-break-the-bicycle\"&gt;Don't Break the Bicycle by Oscar (Shang-Hsuan) Su, eigenstuffs, Jon Wake, LemonInk&lt;/a&gt;"
+  },
+  {
+    "objectID": "games/villainess.html",
+    "href": "games/villainess.html",
+    "title": "Villainess x Reborn",
+    "section": "",
+    "text": "Play the game here!\n&lt;a href=\"https://brandenmb.itch.io/villainess-x-reborn\"&gt;Villainess x Reborn (Early Build) by eigenstuffs, Jon Wake, LemonInk, saiyohara, Oscar (Shang-Hsuan) Su, retrokopoko, lconfusion, Rynndi, tayylortots, Jomeimei&lt;/a&gt;"
   }
 ]

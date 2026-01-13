@@ -1,0 +1,13 @@
+---
+title: "Don't Break the Bicycle"
+description: "Physics-based action game made in 72 hours; won #1 in UCLA game jam out of 15 entries"
+image: imgs/dbtb_cover_art.png
+format: html
+---
+
+---
+**Play the game here!**
+
+```{=html}
+<iframe frameborder="0" src="https://itch.io/embed/3118685?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://oscarshs.itch.io/dont-break-the-bicycle">Don't Break the Bicycle by Oscar (Shang-Hsuan) Su, eigenstuffs, Jon Wake, LemonInk</a></iframe>
+```

@@ -5,6 +5,8 @@ listing:
   contents:
     - games/Mutiny.qmd
     - games/Manny.qmd
+    - games/dbtb.qmd
+    - games/villainess.qmd
   type: grid
   sort: false
 ---
