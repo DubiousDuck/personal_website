@@ -9,16 +9,9 @@ listing:
   sort: false
 ---
 
-I started making games since the later-half of my sophomore year in college. I have now 8 games published on itch.io, and I'm still making more!
+I have made and published 8 games now, and I'm still making more.
 
-I focus on game design and feature implementation, so I always ask myself
-
-- How can I make [a complicated system/feature] work?
-- How can I make the game *easily understood* and *fun*?
-
-Check out some of my most recent games below!
+I focus on game design and feature implementation, making sure the game is fun and polished.
 
 ::: {#game-list}
 :::
-
-You can find more games on my [itch.io page](https://oscarshs.itch.io)

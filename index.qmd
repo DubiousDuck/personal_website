@@ -7,25 +7,17 @@ about:
   image-shape: rounded
   links:
     - text: LinkedIn
-      url: "https://www.linkedin.com/in/oscar-shang-hsuan-su/"
+      url: "https://www.linkedin.com/in/oscarshs/"
       icon: linkedin
     - text: GitHub
       url: "https://github.com/DubiousDuck"
       icon: github
-    - text: Itch.io
-      url: "https://oscarshs.itch.io"
-      icon: joystick
     - text: E-mail
       url: "mailto:oscar517730@gmail.com"
       icon: inbox-fill
-    - text: Resume
-      url: "/files/OscarSu_resume_all.pdf"
-      icon: file
 ---
 
 Hello! I'm Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I do research, build tools to make others' works easier, and design & program video games for my friends to play. For everything I create, I strive to make it fun, impactful, and memorable.
 
 Check out my projects and games from the menu bar or get in touch with me through the platforms below!
-
-<!--[my resume](/files/OscarSu_resume_all.pdf) for some reason i need to include this to have the site reliabily load my pdf-->
 
