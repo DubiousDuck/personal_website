@@ -6,8 +6,21 @@ format: html
 ---
 
 ---
-**Play the game here!**
+**Play the game through the link below!**
 
 ```{=html}
 <iframe frameborder="0" src="https://itch.io/embed/2746015?dark=true" width="552" height="167"><a href="https://brandenmb.itch.io/villainess-x-reborn">Villainess x Reborn (Early Build) by eigenstuffs, Jon Wake, LemonInk, saiyohara, Oscar (Shang-Hsuan) Su, retrokopoko, lconfusion, Rynndi, tayylortots, Jomeimei</a></iframe>
 ```
+
+My first non-game-jam game where we had 15 week to make the game. *Villainess x Reborn* has **2000+ downloads** and **11K+ views** as of January 2026.
+
+The demo contains the first 5 chapters of Act I. We plan on expanding on the demo and releasing the full version in the future.
+
+## My role
+
+- Built mini-game template and framework
+- Designed and implemented 3 mini-games
+  - Book-catching
+  - Fishing
+  - Maze traversing
+- Created the internal flag testing system for more efficient story testing

@@ -1,13 +1,27 @@
 ---
 title: "Don't Break the Bicycle"
-description: "Physics-based action game made in 72 hours; won #1 in UCLA game jam out of 15 entries"
+description: "Physics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries"
 image: imgs/dbtb_cover_art.png
 format: html
 ---
 
 ---
-**Play the game here!**
+**Play the game through the link below!**
 
 ```{=html}
 <iframe frameborder="0" src="https://itch.io/embed/3118685?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://oscarshs.itch.io/dont-break-the-bicycle">Don't Break the Bicycle by Oscar (Shang-Hsuan) Su, eigenstuffs, Jon Wake, LemonInk</a></iframe>
 ```
+
+I led the development of this game for UCLA ACM Studio's inaugural game jam, which has the theme "Break the Cycle". Out of 17 entries, the game **got #1 in all but two categories**.
+
+![](imgs/dbtb_results.png){width=50%}
+
+## My Role
+
+- Implemented game features including
+  - Horizontal bike spin
+  - Vertical bike spin
+  - Scoring system
+- Designed UI/UX
+- Directed camera movement
+- Designed and implemented 6 levels

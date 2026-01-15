@@ -4,14 +4,14 @@
     "href": "games/Manny.html",
     "title": "Manny Takes on Upper Management",
     "section": "",
-    "text": "Play the game here!\nThe game will be opened on a new page so you can come back and read more about how I made it at anytime.\nI lead the development of this game with other UCLA students within a 15-week development period. This is a completed game with a complete storyline, 10 levels, 20 enemy types, and 50+ skills."
+    "text": "Play the game through the link below!\nI led the development of this game with other UCLA students within a 15-week development period. This is a completed game with a complete storyline, 10 levels, 20 enemy types, and 50+ skills."
   },
   {
     "objectID": "games/Manny.html#my-role",
     "href": "games/Manny.html#my-role",
     "title": "Manny Takes on Upper Management",
     "section": "My role",
-    "text": "My role\n\nPrimary lead of the team of 10\nProject management\nSystem design\nLevel design (10 levels)\nEnemy design (20 enemy types)\nImplement features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nMain combat mechanic – Power of Friendship!\nEnemy AI\nDialogue tagging system\nUI/UX (menus, skill selection interface)\n\n\n\n\n\n\n\n\n\n\n\nhexagon-grid navigation\n\n\n\n\n\n\n\npower of friendship\n\n\n\n\n\n\n\n\n\nteam member unlock menu\n\n\n\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
+    "text": "My role\n\nPrimary lead of the team of 10\nProject management\nSystem design\nLevel design (10 levels)\nEnemy design (20 enemy types)\nImplementation of features including\n\nHexagon-shaped tile map navigation (made an editor plug-in which can be found here)\nSkill system and 50+ skills\nMain combat mechanic – Power of Friendship!\nEnemy AI\nDialogue tagging system\nSave and load system\n\nImplementation of UI/UX (menus, skill selection interface)\n\n\n\n\n\n\n\n\n\n\nhexagon-grid navigation\n\n\n\n\n\n\n\npower of friendship\n\n\n\n\n\n\n\n\n\nteam member unlock menu\n\n\n\n\n\nI have written up more about some aspects of the development (and product management) on this page. Feel free to check it out!"
   },
   {
     "objectID": "index.html",
@@ -95,7 +95,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 15 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -172,7 +172,7 @@
     "href": "games/Mutiny.html",
     "title": "Mutiny’s Last Reward",
     "section": "",
-    "text": "Play the game here!\nThe game will be opened on a new page so you can come back and read more about how I made it at anytime.\nOut of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!\nIt was really fun making this game, and I’m really glad I have finally made it to within top 100 with my fourth LD attempt."
+    "text": "Play the game through the link below!\nThe game will be opened on a new page so you can come back and read more about how I made it at anytime.\nOut of ~1500 entries, our game got 39th place in Fun (top 2%) and 97th Overall (top 7%)!\nIt was really fun making this game, and I’m really glad I have finally made it to within top 100 with my fourth LD attempt."
   },
   {
     "objectID": "games/Mutiny.html#my-role",
@@ -186,13 +186,27 @@
     "href": "games/dbtb.html",
     "title": "Don’t Break the Bicycle",
     "section": "",
-    "text": "Play the game here!\n&lt;a href=\"https://oscarshs.itch.io/dont-break-the-bicycle\"&gt;Don't Break the Bicycle by Oscar (Shang-Hsuan) Su, eigenstuffs, Jon Wake, LemonInk&lt;/a&gt;"
+    "text": "Play the game through the link below!\nI led the development of this game for UCLA ACM Studio’s inaugural game jam, which has the theme “Break the Cycle”. Out of 17 entries, the game got #1 in all but two categories."
   },
   {
     "objectID": "games/villainess.html",
     "href": "games/villainess.html",
     "title": "Villainess x Reborn",
     "section": "",
-    "text": "Play the game here!\n&lt;a href=\"https://brandenmb.itch.io/villainess-x-reborn\"&gt;Villainess x Reborn (Early Build) by eigenstuffs, Jon Wake, LemonInk, saiyohara, Oscar (Shang-Hsuan) Su, retrokopoko, lconfusion, Rynndi, tayylortots, Jomeimei&lt;/a&gt;"
+    "text": "Play the game through the link below!\nMy first non-game-jam game where we had 15 week to make the game. Villainess x Reborn has 2000+ downloads and 11K+ views as of January 2026.\nThe demo contains the first 5 chapters of Act I. We plan on expanding on the demo and releasing the full version in the future."
+  },
+  {
+    "objectID": "games/dbtb.html#my-role",
+    "href": "games/dbtb.html#my-role",
+    "title": "Don’t Break the Bicycle",
+    "section": "My Role",
+    "text": "My Role\n\nImplemented game features including\n\nHorizontal bike spin\nVertical bike spin\nScoring system\n\nDesigned UI/UX\nDirected camera movement\nDesigned and implemented 6 levels"
+  },
+  {
+    "objectID": "games/villainess.html#my-role",
+    "href": "games/villainess.html#my-role",
+    "title": "Villainess x Reborn",
+    "section": "My role",
+    "text": "My role\n\nBuilt mini-game template and framework\nDesigned and implemented 3 mini-games\n\nBook-catching\nFishing\nMaze traversing\n\nCreated the internal flag testing system for more efficient story testing"
   }
 ]
