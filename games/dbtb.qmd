@@ -22,6 +22,6 @@ I led the development of this game for UCLA ACM Studio's inaugural game jam, whi
   - Horizontal bike spin
   - Vertical bike spin
   - Scoring system
+  - Camera movement
 - Designed UI/UX
-- Directed camera movement
 - Designed and implemented 6 levels

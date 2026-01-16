@@ -95,7 +95,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGobblin’ Goblin\n\n\nPuzzle game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
+    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTake Your Meds\n\n\nPuzzle game made in 72 hours for the Ludum Dare 57; top 10% out of 1600 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGobblin’ Goblin\n\n\nCooking game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -200,7 +200,7 @@
     "href": "games/dbtb.html#my-role",
     "title": "Don’t Break the Bicycle",
     "section": "My Role",
-    "text": "My Role\n\nImplemented game features including\n\nHorizontal bike spin\nVertical bike spin\nScoring system\n\nDesigned UI/UX\nDirected camera movement\nDesigned and implemented 6 levels"
+    "text": "My Role\n\nImplemented game features including\n\nHorizontal bike spin\nVertical bike spin\nScoring system\nCamera movement\n\nDesigned UI/UX\nDesigned and implemented 6 levels"
   },
   {
     "objectID": "games/villainess.html#my-role",
@@ -221,6 +221,20 @@
     "href": "games/goblin.html#my-role",
     "title": "Gobblin’ Goblin",
     "section": "My role",
-    "text": "My role\n\nImplemented game features including\n\nlevel success condition\ncamera movement\ncharacter navigation\n\nDesigned and implemented UI"
+    "text": "My role\n\nImplemented game features including\n\nlevel success condition\ncamera movement\ncharacter pathfinding algorithm\n\nDesigned and implemented UI"
+  },
+  {
+    "objectID": "games/take_meds.html",
+    "href": "games/take_meds.html",
+    "title": "Take Your Meds",
+    "section": "",
+    "text": "Play the game through the link below!\nOut of 1600 other games, our game reached the top 10% (160th) in Innovation."
+  },
+  {
+    "objectID": "games/take_meds.html#my-role",
+    "href": "games/take_meds.html#my-role",
+    "title": "Take Your Meds",
+    "section": "My role",
+    "text": "My role\n\nImplemented game features including\n\nLayer transition\nCamera movement\n\nDesigned menu UI\nDesigned 2 levels\nAnimation logic"
   }
 ]

@@ -1,8 +1,10 @@
 ---
 title: "Gobblin' Goblin"
-description: "Puzzle game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries"
+description: "Cooking game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries"
 image: imgs/goblin_cover_art.jpeg
 format: html
+---
+
 ---
 
 **Play the game through the link below!**
@@ -20,5 +22,5 @@ My second Ludum Dare game, which ended up ranking the top 30% in Overall out of 
 - Implemented game features including
   - level success condition
   - camera movement
-  - character navigation
+  - character pathfinding algorithm
 - Designed and implemented UI

@@ -1,0 +1,27 @@
+---
+title: "Take Your Meds"
+description: "Puzzle game made in 72 hours for the Ludum Dare 57; top 10% out of 1600 entries"
+image: imgs/meds_cover_art.png
+format: html
+---
+
+---
+
+**Play the game through the link below!**
+
+```{=html}
+<iframe frameborder="0" src="https://itch.io/embed/3457084?dark=true" width="552" height="167"><a href="https://oscarshs.itch.io/take-your-meds">Take Your Meds by Oscar (Shang-Hsuan) Su, eigenstuffs, LemonInk, Jon Wake, Brendan Aeria, Abignerd1</a></iframe>
+```
+
+Out of 1600 other games, our game reached the top 10% (160th) in Innovation.
+
+![](imgs/meds_ld_score.png){width=50%}
+
+## My role
+
+- Implemented game features including
+  - Layer transition
+  - Camera movement
+- Designed menu UI
+- Designed 2 levels
+- Animation logic
