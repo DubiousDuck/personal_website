@@ -7,6 +7,7 @@ listing:
     - games/Manny.qmd
     - games/dbtb.qmd
     - games/villainess.qmd
+    - games/goblin.qmd
   type: grid
   sort: false
 ---

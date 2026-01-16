@@ -1,0 +1,24 @@
+---
+title: "Gobblin' Goblin"
+description: "Puzzle game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries"
+image: imgs/goblin_cover_art.jpeg
+format: html
+---
+
+**Play the game through the link below!**
+
+```{=html}
+<iframe frameborder="0" src="https://itch.io/embed/3017643?dark=true" width="552" height="167"><a href="https://jomeimei.itch.io/gobblin-goblin">Gobblin' Goblin by Jomeimei, shortstoryshort, Oscar (Shang-Hsuan) Su, LemonInk, eigenstuffs, cm600286, Fremples, Jon Wake, Angelina Wu</a></iframe>
+```
+
+My second Ludum Dare game, which ended up ranking the top 30% in Overall out of 1400 entries.
+
+![](imgs/goblin_ld_score.png){width=50%}
+
+## My role
+
+- Implemented game features including
+  - level success condition
+  - camera movement
+  - character navigation
+- Designed and implemented UI

@@ -95,7 +95,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
+    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGobblin’ Goblin\n\n\nPuzzle game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -208,5 +208,19 @@
     "title": "Villainess x Reborn",
     "section": "My role",
     "text": "My role\n\nBuilt mini-game template and framework\nDesigned and implemented 3 mini-games\n\nBook-catching\nFishing\nMaze traversing\n\nCreated the internal flag testing system for more efficient story testing"
+  },
+  {
+    "objectID": "games/goblin.html",
+    "href": "games/goblin.html",
+    "title": "Gobblin’ Goblin",
+    "section": "",
+    "text": "Play the game through the link below!\nMy second Ludum Dare game, which ended up ranking the top 30% in Overall out of 1400 entries."
+  },
+  {
+    "objectID": "games/goblin.html#my-role",
+    "href": "games/goblin.html#my-role",
+    "title": "Gobblin’ Goblin",
+    "section": "My role",
+    "text": "My role\n\nImplemented game features including\n\nlevel success condition\ncamera movement\ncharacter navigation\n\nDesigned and implemented UI"
   }
 ]
