@@ -17,3 +17,5 @@ I focus on game design and feature implementation, making sure the game is fun a
 
 ::: {#game-list}
 :::
+
+The rest of the games I made can be found on my [itch.io page](https://oscarshs.itch.io).
