@@ -1,6 +1,6 @@
 ---
 title: "Oscar Su"
-subtitle: "Statistics & Data Science + Cognitive Science @ UCLA"
+subtitle: "Data Scientist & Game Developer"
 image: "imgs/personal_photo.JPEG"
 about:
   template: jolla
@@ -17,7 +17,7 @@ about:
       icon: inbox-fill
 ---
 
-Hello! I'm Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I do research, build tools to make others' works easier, and design & program video games for my friends to play. For everything I create, I strive to make it fun, impactful, and memorable.
+Hello! I'm Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I build tools to make others' works easier and design & program video games for my friends to play.
 
 Check out my projects and games from the menu bar or get in touch with me through the platforms below!
 
