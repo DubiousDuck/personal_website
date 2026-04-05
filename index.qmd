@@ -16,8 +16,8 @@ about:
       url: "mailto:oscar517730@gmail.com"
       icon: inbox-fill
 ---
+Hello, I'm Oscar. I've studied Statistics & Data Science and Cognitive Science, and somewhere along the way I picked up a habit of asking questions and building something useful from them.
 
-Hello! I'm Oscar. I like to ask questions, answer them, and use what I found to create cool tools and experiences. I build tools to make others' works easier and design & program video games for my friends to play.
+I care a lot about making things that work well for the people using them. Whether it's producing business recommendations from geospatial and time-series data, running regression and NLP models to understand how people perceive visual scenes, or designing game systems where player feedback directly shapes what gets built next, I try to make sure the end result is clear, intentional, and worth someone's time.
 
-Check out my projects and games from the menu bar or get in touch with me through the platforms below!
-
+Feel free to browse my projects and games from the menu, or reach out through any of the platforms below.
