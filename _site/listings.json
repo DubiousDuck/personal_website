@@ -2,6 +2,8 @@
   {
     "listing": "/games.html",
     "items": [
+      "/games/mkultra.html",
+      "/games/prime_weaver.html",
       "/games/Mutiny.html",
       "/games/Manny.html",
       "/games/dbtb.html",

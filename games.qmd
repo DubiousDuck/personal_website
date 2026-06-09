@@ -3,6 +3,8 @@ title: "Games"
 listing:
   id: game-list
   contents:
+    - games/mkultra.qmd
+    - games/prime_weaver.qmd
     - games/Mutiny.qmd
     - games/Manny.qmd
     - games/dbtb.qmd

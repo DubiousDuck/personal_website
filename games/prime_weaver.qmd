@@ -1,0 +1,43 @@
+---
+title: "Prime Weaver"
+description: "Third-person spell-casting game where you weave different elements to unleash powerful spells; my first Unreal Engine project"
+image: imgs/prime_weaver_cover.png
+format: html
+---
+
+---
+
+**Play the demo through the link below!**
+
+```{=html}
+```
+
+[Link to game](https://destroh3.itch.io/prime-weaver)
+
+There will be more development coming soon...
+
+---
+
+I worked on this project as one of the main programmers. The current demo contains 10+ spells, 2 levels, and a battle arena with roguelite progression elements that tests the players' mastery of the weave system.
+
+:::{layout-nrow=2 layout-valign="bottom"}
+![](imgs/prime_weaver1.png)
+
+![](imgs/prime_weaver2.png)
+
+![](imgs/prime_weaver3.png)
+
+![](imgs/prime_weaver5.png)
+:::
+
+## My role
+
+- Designed and implemented 3 out of 10 spells
+- Implemented permanent stats buff for the arena game mode
+- 15+ sfx sourcing and implementation
+
+:::{layout-ncol=2}
+![Chargeable Big Fireball](imgs/prime_weaver_big_fireball.gif)
+
+![Stats multiplier as you succussfully defeat more enemies](imgs/prime_weaver_max_stat.gif)
+:::

@@ -95,7 +95,7 @@
     "href": "games.html",
     "title": "Games",
     "section": "",
-    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTake Your Meds\n\n\nPuzzle game made in 72 hours for the Ludum Dare 57; top 10% out of 1600 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGobblin’ Goblin\n\n\nCooking game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
+    "text": "I have made and published 8 games now, and I’m still making more.\nI focus on game design and feature implementation, making sure the game is fun and polished.\n\n\n\n\n\n\n\n\n\n\nMKUltra (in development)\n\n\nMultiplayer co-op roguelike FPS with psychedelic themes; explore secret government facilities to fight off enemies and obtain powerful reward; currently in development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrime Weaver\n\n\nThird-person spell-casting game where you weave different elements to unleash powerful spells; my first Unreal Engine project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutiny’s Last Reward\n\n\nPrecision arcade game made in 72 hours for Ludum Dare 58; top 2% Fun game out of 1500 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManny Takes on Upper Management\n\n\nRetro Turn-based Tactic Game with Satirical Tone made in a 15 week cycle; my first lead project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t Break the Bicycle\n\n\nPhysics-based action game made in 72 hours; won #1 in UCLA game jam out of 17 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVillainess x Reborn\n\n\nVisual novel demo with a focus on minigames made in a 15 week cycle; 2k+ downloads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTake Your Meds\n\n\nPuzzle game made in 72 hours for the Ludum Dare 57; top 10% out of 1600 entries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGobblin’ Goblin\n\n\nCooking game made in 72 hours for Ludum Dare 56; top 30% out of 1400 entries\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nThe rest of the games I made can be found on my itch.io page."
   },
   {
     "objectID": "projects/savills_consulting.html",
@@ -236,5 +236,40 @@
     "title": "Take Your Meds",
     "section": "My role",
     "text": "My role\n\nImplemented game features including\n\nLayer transition\nCamera movement\n\nDesigned menu UI\nDesigned 2 levels\nAnimation logic"
+  },
+  {
+    "objectID": "games/prime_weaver.html",
+    "href": "games/prime_weaver.html",
+    "title": "Prime Weaver",
+    "section": "",
+    "text": "Play the demo through the link below!\nLink to game\nThere will be more development coming soon…\nI worked on this project as one of the main programmers. The current demo contains 10+ spells, 2 levels, and a battle arena with roguelite progression elements that tests the players’ mastery of the weave system."
+  },
+  {
+    "objectID": "games/prime_weaver.html#my-role",
+    "href": "games/prime_weaver.html#my-role",
+    "title": "Prime Weaver",
+    "section": "My role",
+    "text": "My role\n\nDesigned and implemented 3 out of 10 spells\nImplemented permanent stats buff for the arena game mode\n15+ sfx sourcing and implementation\n\n\n\n\n\n\n\n\n\n\nChargeable Big Fireball\n\n\n\n\n\n\n\nStats multiplier as you succussfully defeat more enemies"
+  },
+  {
+    "objectID": "games/mkultra.html",
+    "href": "games/mkultra.html",
+    "title": "MKUltra (in development)",
+    "section": "",
+    "text": "Demo will be available soon… Stay tuned!\nI worked on this project as one of the main programmers. The current demo contains 10+ spells, 2 levels, and a battle arena with roguelite progression elements that tests the players’ mastery of the weave system."
+  },
+  {
+    "objectID": "games/mkultra.html#my-role",
+    "href": "games/mkultra.html#my-role",
+    "title": "MKUltra (in development)",
+    "section": "My role",
+    "text": "My role\n\nBoss implementation with 3 phases and 5 abilities\nDesigned exertion and overdose system\nWall slam mechanism\nUI work\n\nprogress bar\nboss health bar\ndrug visual effects\n\nitem hover outline\n\n\n\n\n\n\n\n\n\n\nOverdose system\n\n\n\n\n\n\n\nwall slam logic\n\n\n\n\n\n\n\n\n\nEagle man boss"
+  },
+  {
+    "objectID": "games/mkultra.html#my-role-so-far",
+    "href": "games/mkultra.html#my-role-so-far",
+    "title": "MKUltra (in development)",
+    "section": "My role so far",
+    "text": "My role so far\n\nBoss implementation with 3 phases and 5 abilities\nDesigned exertion and overdose system\nWall slam mechanism\nUI work\n\nprogress bar\nboss health bar\ndrug visual effects\n\nitem hover outline\n\n\n\n\n\n\n\n\n\n\nOverdose system\n\n\n\n\n\n\n\nwall slam logic\n\n\n\n\n\n\n\n\n\nEagle man boss"
   }
 ]
